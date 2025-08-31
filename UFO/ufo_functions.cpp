@@ -106,7 +106,7 @@ void Game::display_misses(int misses) {
 		std::cout << "             /   0   \\      / `-----------'  \n";
 		std::cout << "            /  --|--  \\    /                 \n";
 		std::cout << "           /     |     \\                     \n";
-		std::cout << "          /     / \\    \\                    \n";
+		std::cout << "          /     / \\     \\                    \n";
 		std::cout << "         /               \\                   \n";
 
 	}
@@ -122,7 +122,7 @@ void Game::display_misses(int misses) {
 		std::cout << "              /  0  \\        (  Send help! ) \n";
 		std::cout << "             / --|-- \\      / `-----------'  \n";
 		std::cout << "            /    |    \\    /                 \n";
-		std::cout << "           /    / \\   \\                     \n";
+		std::cout << "           /    / \\    \\                     \n";
 		std::cout << "          /             \\                    \n";
 		std::cout << "         /               \\                   \n";
 
@@ -138,7 +138,7 @@ void Game::display_misses(int misses) {
 		std::cout << "         '-.,_________,.-'    ,-----------.   \n";
 		std::cout << "              /--|--\\        (  Send help! ) \n";
 		std::cout << "             /   |   \\      / `-----------'  \n";
-		std::cout << "            /   / \\   \\   /                 \n";
+		std::cout << "            /   / \\   \\    /                 \n";
 		std::cout << "           /           \\                     \n";
 		std::cout << "          /             \\                    \n";
 		std::cout << "         /               \\                   \n";
@@ -154,7 +154,7 @@ void Game::display_misses(int misses) {
 		std::cout << "        (  ooo  ooo  ooo  )                   \n";
 		std::cout << "         '-.,_________,.-'    ,-----------.   \n";
 		std::cout << "              /  |  \\        (  Send help! ) \n";
-		std::cout << "             /  / \\ \\      / `-----------' \n";
+		std::cout << "             /  / \\  \\      / `-----------' \n";
 		std::cout << "            /         \\    /                 \n";
 		std::cout << "           /           \\                     \n";
 		std::cout << "          /             \\                    \n";
@@ -170,7 +170,7 @@ void Game::display_misses(int misses) {
 		std::cout << "         .-\"`         `\"-.                  \n";
 		std::cout << "        (  ooo  ooo  ooo  )                   \n";
 		std::cout << "         '-.,_________,.-'    ,-----------.   \n";
-		std::cout << "              / / \\\\        (  Send help! )\n";
+		std::cout << "              / / \\ \\        (  Send help! )\n";
 		std::cout << "             /       \\      / `-----------'  \n";
 		std::cout << "            /         \\    /                 \n";
 		std::cout << "           /           \\                     \n";
